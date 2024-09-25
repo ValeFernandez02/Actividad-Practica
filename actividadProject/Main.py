@@ -4,7 +4,7 @@ name1 = "Valeria"
 name2 = "Harrison"
 age = 19
 comidafav1 = "Lagsaña"
-comidafav2 = "Pasta con salsa Boloñesa"
+comidafav2 = "Las pastas"
 presentation = (f"Hola, nosotros somos  {name1} y {name2},tenemos {age} años, la comida favorita de {name1} es la  {comidafav1} "
                 f"y la de {name2} es {comidafav2}.")
 print(presentation)
